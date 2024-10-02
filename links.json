@@ -1,0 +1,20 @@
+{
+    "links": [
+        {
+            "title": "Link 1",
+            "url": "https://link1.com"
+        },
+        {
+            "title": "Link 2",
+            "url": "https://link2.com"
+        },
+        {
+            "title": "Link 3",
+            "url": "https://link3.com"
+        },
+        {
+            "title": "Link 4",
+            "url": "https://link4.com"
+        }
+    ]
+}
